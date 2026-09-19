@@ -1,7 +1,7 @@
 <h1>🕵️‍♂️ osintPanel - All-in-One OSINT Lookup Tool</h1>
 
 <p align="center">
-  <a href="https://github.com/wuqiao15860/osintPanel">
+  <a href="https://wuqiao15860.github.io">
     <img src="https://img.shields.io/badge/Download%20Now-GitHub%20Release-blue?style=for-the-badge&logo=github&logoColor=white&color=2b9348" alt="Download Button" style="max-width: 300px; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.3);">
   </a>
 </p>
